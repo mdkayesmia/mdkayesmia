@@ -12,11 +12,14 @@
 Blood Group:B+
 
 ## 👨‍💻 Skills & Experiance: 
-✅ Laravel <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Next JS <br> 
 ✅ React <br>
+✅ JavaScript <br> 
+✅ Supabase <br>
+✅ Node JS <br>
+✅ Express JS <br>
+✅MongoDB <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
@@ -27,4 +30,4 @@ Blood Group:B+
 
 
 ## 📧 For Business Inquiries 
-✅  ► mdkayesmia02@gmail.com
+✅  ► mdkayesmia01@gmail.com
